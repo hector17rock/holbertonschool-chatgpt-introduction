@@ -1,0 +1,8 @@
+# Ignore nested git repositories
+holbertonschool-chatgpt-introduction/
+holbertonschool-higher_level_programming/
+
+# Ignore macOS system files
+.DS_Store
+.DS_Store?
+
